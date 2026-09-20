@@ -1,0 +1,14 @@
+{
+  "name": "normalize-demo-copy",
+  "steps": [
+    {
+      "type": "replace",
+      "old": "  ",
+      "new": " "
+    },
+    {
+      "type": "prefix",
+      "text": "[PROCESSED]\n"
+    }
+  ]
+}
